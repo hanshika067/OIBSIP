@@ -1,1 +1,9 @@
-
+- Responsive Design for all devices (Mobile, Tablet, Desktop)
+- Clean and elegant UI using a soft beige & brown color palette
+- About Me section to introduce myself
+- Skills section grouped into Frontend, Backend, and Tools
+- Project showcase with images, details, and links
+- Timeline-based Experience section
+- Contact section with social links and message form
+- Resume download link
+- Font Awesome icons and Google Fonts integration
