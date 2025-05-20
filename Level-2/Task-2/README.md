@@ -1,4 +1,4 @@
-ribute Page: Ratan Tata
+Tribute Page: Ratan Tata
 This is a tribute page dedicated to Ratan Tata, an iconic Indian industrialist, philanthropist, and visionary leader. Built using HTML and CSS, this project showcases your web development skills through a beautifully styled and responsive single-page layout.
 
 ✨ Features
